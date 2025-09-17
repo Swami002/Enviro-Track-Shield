@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7e84894-1ccd-4bdd-bed5-e17108526a93" /># Enviro-Track-Shield
+# Enviro-Track-Shield
 **Technologies:** Arduino UNO, Bluetooth, LCD, Temperature (DHT11), Humidity, Rain Detection, Flame Sensors
 
 ### Description
